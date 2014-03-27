@@ -25,7 +25,9 @@
 
  实现方案之一
 
+
 ![](images/AirQualityMonitor-PAM-Intel_Portable_NoNote_800x.jpg)
+
 部件说明：
 
 PAM/miniPAM：
@@ -47,6 +49,7 @@ Intel Cloud Center：
 拉式是指由用户主动去获取相关设备在适当区域经云端分析之后的数据，然后在智能终端上加以显示。
 
  实现方案之二
+
 ![](images/AirQualityMonitor_PAM-AirQualityCloud_Portable_NoNote_800x.jpg)
 
 部件说明：
